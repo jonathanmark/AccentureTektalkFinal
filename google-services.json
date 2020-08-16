@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "412765662634",
+    "firebase_url": "https://tektalk-d2827.firebaseio.com",
+    "project_id": "tektalk-d2827",
+    "storage_bucket": "tektalk-d2827.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412765662634:android:3ed913606b70473e4a0fd3",
+        "android_client_info": {
+          "package_name": "org.tensorflow.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412765662634-8706jlnarsn9e2nul3db7ukpakh8jsb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.tensorflow.demo",
+            "certificate_hash": "913b8f7023c6d0c9d7c537b4c9330de59d1a1dd4"
+          }
+        },
+        {
+          "client_id": "412765662634-t8rpdes211l1etjev074i42mh673blje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9hZ4J5Ezb2CDx2tWiK-PXY3SZt5lQfLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412765662634-t8rpdes211l1etjev074i42mh673blje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

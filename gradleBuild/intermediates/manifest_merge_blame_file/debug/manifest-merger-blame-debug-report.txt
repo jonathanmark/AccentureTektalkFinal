@@ -1,0 +1,145 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.tensorflow.demo" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml
+7        android:targetSdkVersion="29" />
+7-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.CAMERA" />
+9-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:6:5-65
+9-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:6:22-62
+10    <uses-permission android:name="android.permission.INTERNET" />
+10-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:7:5-67
+10-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:7:22-64
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:8:5-79
+11-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:8:22-76
+12
+13    <uses-feature
+13-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:10:5-12:36
+14        android:name="android.hardware.camera"
+14-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:11:9-47
+15        android:required="false" />
+15-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:12:9-33
+16    <uses-feature
+16-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:13:5-15:36
+17        android:name="android.hardware.camera.autofocus"
+17-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:14:9-57
+18        android:required="false" />
+18-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:15:9-33
+19    <uses-feature
+19-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:16:5-18:36
+20        android:name="android.software.leanback"
+20-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:17:9-49
+21        android:required="false" />
+21-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:18:9-33
+22
+23    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+23-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:20:5-81
+23-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:20:22-78
+24    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+24-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:21:5-71
+24-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:21:22-68
+25    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+26    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+27
+28    <application
+28-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:23:5-45:19
+29        android:allowBackup="true"
+29-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:24:9-35
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.3.0] C:\Users\JP\.gradle\caches\transforms-2\files-2.1\4c8b6589fea0376b5675729682d16398\core-1.3.0\AndroidManifest.xml:24:18-86
+31        android:debuggable="true"
+32        android:icon="@drawable/logo_tektalk"
+32-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:25:9-46
+33        android:label="@string/app_name"
+33-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:26:9-41
+34        android:testOnly="true"
+35        android:theme="@style/Theme.AppCompat.Light" >
+35-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:27:9-53
+36        <activity android:name="org.tensorflow.demo.MainActivity" >
+36-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:29:9-36:20
+36-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:29:19-47
+37            <intent-filter>
+37-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:30:13-35:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:31:17-69
+38-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:31:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:33:17-77
+40-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:33:27-74
+41                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+41-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:34:17-86
+41-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:34:27-83
+42            </intent-filter>
+43        </activity>
+44        <activity
+44-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:37:9-40:52
+45            android:name="org.tensorflow.demo.DetectorActivity"
+45-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:38:13-45
+46            android:label="@string/activity_name_detection"
+46-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:39:13-60
+47            android:screenOrientation="portrait" />
+47-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:40:13-49
+48        <activity android:name="org.tensorflow.demo.ChooseLanguage" />
+48-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:41:9-52
+48-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:41:19-49
+49        <activity android:name="org.tensorflow.demo.GameMechanicsActivity" />
+49-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:42:9-68
+49-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:42:19-56
+50        <activity android:name="org.tensorflow.demo.GameActivity" />
+50-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:43:9-50
+50-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:43:19-47
+51        <activity android:name="org.tensorflow.demo.Bookmark" />
+51-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:44:9-46
+51-->C:\Users\JP\AndroidStudioProjects\newandroid\android\AndroidManifest.xml:44:19-43
+52
+53        <service
+53-->[com.google.firebase:firebase-database:19.3.1] C:\Users\JP\.gradle\caches\transforms-2\files-2.1\e387bfc2aadefb74180cddc273413ddf\jetified-firebase-database-19.3.1\AndroidManifest.xml:29:9-35:19
+54            android:name="com.google.firebase.components.ComponentDiscoveryService"
+54-->[com.google.firebase:firebase-database:19.3.1] C:\Users\JP\.gradle\caches\transforms-2\files-2.1\e387bfc2aadefb74180cddc273413ddf\jetified-firebase-database-19.3.1\AndroidManifest.xml:30:13-84
+55            android:directBootAware="true"
+55-->[com.google.firebase:firebase-common:19.3.0] C:\Users\JP\.gradle\caches\transforms-2\files-2.1\0c6d5386fa766c31ba38a2af33a5c168\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+56            android:exported="false" >
+56-->[com.google.firebase:firebase-database:19.3.1] C:\Users\JP\.gradle\caches\transforms-2\files-2.1\e387bfc2aadefb74180cddc273413ddf\jetified-firebase-database-19.3.1\AndroidManifest.xml:31:13-37
+57            <meta-data
+57-->[com.google.firebase:firebase-database:19.3.1] C:\Users\JP\.gradle\caches\transforms-2\files-2.1\e387bfc2aadefb74180cddc273413ddf\jetified-firebase-database-19.3.1\AndroidManifest.xml:32:13-34:85
+58                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+58-->[com.google.firebase:firebase-database:19.3.1] C:\Users\JP\.gradle\caches\transforms-2\files-2.1\e387bfc2aadefb74180cddc273413ddf\jetified-firebase-database-19.3.1\AndroidManifest.xml:33:17-109
+59                android:value="com.google.firebase.components.ComponentRegistrar" />
+59-->[com.google.firebase:firebase-database:19.3.1] C:\Users\JP\.gradle\caches\transforms-2\files-2.1\e387bfc2aadefb74180cddc273413ddf\jetified-firebase-database-19.3.1\AndroidManifest.xml:34:17-82
+60        </service>
+61
+62        <activity
+62-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\JP\.gradle\caches\transforms-2\files-2.1\981d429b00d47fb340246592457fbd23\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+63            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+63-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\JP\.gradle\caches\transforms-2\files-2.1\981d429b00d47fb340246592457fbd23\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+64            android:exported="false"
+64-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\JP\.gradle\caches\transforms-2\files-2.1\981d429b00d47fb340246592457fbd23\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+65            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+65-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\JP\.gradle\caches\transforms-2\files-2.1\981d429b00d47fb340246592457fbd23\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+66
+67        <provider
+67-->[com.google.firebase:firebase-common:19.3.0] C:\Users\JP\.gradle\caches\transforms-2\files-2.1\0c6d5386fa766c31ba38a2af33a5c168\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+68            android:name="com.google.firebase.provider.FirebaseInitProvider"
+68-->[com.google.firebase:firebase-common:19.3.0] C:\Users\JP\.gradle\caches\transforms-2\files-2.1\0c6d5386fa766c31ba38a2af33a5c168\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+69            android:authorities="org.tensorflow.demo.firebaseinitprovider"
+69-->[com.google.firebase:firebase-common:19.3.0] C:\Users\JP\.gradle\caches\transforms-2\files-2.1\0c6d5386fa766c31ba38a2af33a5c168\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+70            android:exported="false"
+70-->[com.google.firebase:firebase-common:19.3.0] C:\Users\JP\.gradle\caches\transforms-2\files-2.1\0c6d5386fa766c31ba38a2af33a5c168\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+71            android:initOrder="100" />
+71-->[com.google.firebase:firebase-common:19.3.0] C:\Users\JP\.gradle\caches\transforms-2\files-2.1\0c6d5386fa766c31ba38a2af33a5c168\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+72
+73        <meta-data
+73-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\JP\.gradle\caches\transforms-2\files-2.1\abac5348e4b9dbefbbbe03d33cf84b03\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+74            android:name="com.google.android.gms.version"
+74-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\JP\.gradle\caches\transforms-2\files-2.1\abac5348e4b9dbefbbbe03d33cf84b03\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+75            android:value="@integer/google_play_services_version" />
+75-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\JP\.gradle\caches\transforms-2\files-2.1\abac5348e4b9dbefbbbe03d33cf84b03\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+76    </application>
+77
+78</manifest>
