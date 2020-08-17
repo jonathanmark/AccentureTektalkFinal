@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="__arcore_cancel">Отмена</string>
+    <string name="__arcore_continue">Далее</string>
+    <string name="__arcore_install_app">Для работы этого приложения нужна последняя версия сервисов Google Play для AR.</string>
+    <string name="__arcore_install_feature">Для работы этой функции нужна последняя версия сервисов Google Play для AR.</string>
+    <string name="__arcore_installing">Установка сервисов Google Play для AR…</string>
     <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
     <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Перейти вверх"</string>
     <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Ещё"</string>

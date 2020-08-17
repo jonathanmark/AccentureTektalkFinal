@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="__arcore_cancel">منسوخ کریں</string>
+    <string name="__arcore_continue">جاری رکھیں</string>
+    <string name="__arcore_install_app">اس ایپلیکیشن کو Google Play سروسز برائے AR کا جدید تر ورژن درکار ہے۔</string>
+    <string name="__arcore_install_feature">اس خصوصیت کے لیے Google Play سروسز برائے AR کا تازہ ترین ورژن درکار ہے۔</string>
+    <string name="__arcore_installing">Google Play سروسز برائے AR انسٹال ہو رہا ہے…</string>
     <string msgid="5976598919945601918" name="abc_action_bar_home_description">"گھر کی طرف نیویگیٹ کریں"</string>
     <string msgid="8388173803310557296" name="abc_action_bar_up_description">"اوپر نیویگیٹ کریں"</string>
     <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"مزید اختیارات"</string>

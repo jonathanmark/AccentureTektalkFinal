@@ -151,6 +151,11 @@ android {
         targetSdkVersion 29
         minSdkVersion 21
     }
+
+    compileOptions {
+        sourceCompatibility 1.8
+        targetCompatibility 1.8
+    }
     //Comment by Jonathan: local version ko to ng ndk tapos dinisable ko by changing to comment yung ndk sa task build native
     ndkVersion "21.3.6528147"
 }
@@ -216,6 +221,7 @@ dependencies {
 
     //Comment by Jonathan: Dito ko nilagay yung deps for ARCORE sceneform
 
-    implementation "com.google.ar.sceneform.ux:sceneform-ux:1.0.0"
+    implementation "com.google.ar.sceneform.ux:sceneform-ux:1.15.0"
+    
 
 }

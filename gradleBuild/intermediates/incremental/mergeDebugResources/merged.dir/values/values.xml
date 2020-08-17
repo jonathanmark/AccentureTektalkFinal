@@ -397,6 +397,11 @@
     <integer name="config_tooltipAnimTime">150</integer>
     <integer name="google_play_services_version">12451000</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
+    <string name="__arcore_cancel">Cancel</string>
+    <string name="__arcore_continue">Continue</string>
+    <string name="__arcore_install_app">This application requires the latest version of Google Play Services for AR.</string>
+    <string name="__arcore_install_feature">This feature requires the latest version of Google Play Services for AR.</string>
+    <string name="__arcore_installing">Installing Google Play Services for AR…</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
     <string name="abc_action_menu_overflow_description">More options</string>
@@ -456,6 +461,7 @@
     <string name="google_app_id" translatable="false">1:412765662634:android:3ed913606b70473e4a0fd3</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC9hZ4J5Ezb2CDx2tWiK-PXY3SZt5lQfLg</string>
     <string name="google_storage_bucket" translatable="false">tektalk-d2827.appspot.com</string>
+    <string name="lib_name">Filament Android</string>
     <string name="no_connection">No internet connection! Cannot be translated!</string>
     <string name="project_id" translatable="false">tektalk-d2827</string>
     <string name="request_permission">This sample needs camera permission.</string>

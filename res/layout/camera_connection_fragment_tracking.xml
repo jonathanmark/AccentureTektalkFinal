@@ -17,6 +17,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+      <!--
+      Comment by Jonathan:
+
+      Supposedly maglalagay ako ng camera fragment dito to spawn the 3dModel for rendering
+      Dunno how to do that thing yet tho
+
+      -->
+
 
       <org.tensorflow.demo.AutoFitTextureView
           android:id="@+id/texture"

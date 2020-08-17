@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="__arcore_cancel">Ləğv edin</string>
+    <string name="__arcore_continue">Davam edin</string>
+    <string name="__arcore_install_app">Bu tətbiq Google Play AR Xidmətlərinin son versiyasını tələb edir.</string>
+    <string name="__arcore_install_feature">Bu funksiya Google Play AR Xidmətlərinin son versiyasını tələb edir.</string>
+    <string name="__arcore_installing">Google Play AR Xidmətləri quraşdırılır...</string>
     <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Əsas səhifəyə keçin"</string>
     <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Yuxarı keçin"</string>
     <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Digər seçimlər"</string>

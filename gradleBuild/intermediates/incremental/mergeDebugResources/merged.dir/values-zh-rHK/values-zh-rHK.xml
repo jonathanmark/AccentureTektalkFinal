@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="__arcore_cancel">取消</string>
+    <string name="__arcore_continue">繼續</string>
+    <string name="__arcore_install_app">您需要安裝最新版本的「Google Play 服務 (AR)」才能使用此應用程式。</string>
+    <string name="__arcore_install_feature">您需要安裝最新版本的「Google Play 服務 (AR)」才能使用此功能。</string>
+    <string name="__arcore_installing">正在安裝「Google Play 服務 (AR)」…</string>
     <string msgid="5976598919945601918" name="abc_action_bar_home_description">"瀏覽主頁"</string>
     <string msgid="8388173803310557296" name="abc_action_bar_up_description">"向上瀏覽"</string>
     <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"更多選項"</string>

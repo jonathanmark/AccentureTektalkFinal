@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="__arcore_cancel">Zrušiť</string>
+    <string name="__arcore_continue">Pokračovať</string>
+    <string name="__arcore_install_app">Táto aplikácia vyžaduje najnovšiu verziu Služieb Google Play pre RR.</string>
+    <string name="__arcore_install_feature">Táto funkcia vyžaduje najnovšiu verziu Služieb Google Play pre RR.</string>
+    <string name="__arcore_installing">Inštalujú sa Služby Google Play pre RR…</string>
     <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Prejsť na plochu"</string>
     <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Prejsť nahor"</string>
     <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Ďalšie možnosti"</string>

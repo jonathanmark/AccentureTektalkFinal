@@ -14,131 +14,169 @@
 10    <uses-permission android:name="android.permission.INTERNET" />
 10-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:7:5-67
 10-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:7:22-64
-11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-11-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:8:5-79
-11-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:8:22-76
-12
-13    <uses-feature
-13-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:10:5-12:36
-14        android:name="android.hardware.camera"
-14-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:11:9-47
-15        android:required="false" />
-15-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:12:9-33
-16    <uses-feature
-16-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:13:5-15:36
-17        android:name="android.hardware.camera.autofocus"
-17-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:14:9-57
-18        android:required="false" />
-18-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:15:9-33
+11
+12    <uses-feature
+12-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:8:5-78
+13        android:glEsVersion="0x00030000"
+13-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:8:19-51
+14        android:required="true" />
+14-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:8:52-75
+15    <uses-feature android:name="android.hardware.camera.ar" />
+15-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:9:5-63
+15-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:9:19-60
+16
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:10:5-79
+17-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:10:22-76
+18
 19    <uses-feature
-19-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:16:5-18:36
-20        android:name="android.software.leanback"
-20-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:17:9-49
+19-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:14:5-16:36
+20        android:name="android.hardware.camera"
+20-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:15:9-47
 21        android:required="false" />
-21-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:18:9-33
-22
-23    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-23-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:20:5-81
-23-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:20:22-78
-24    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-24-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:21:5-71
-24-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:21:22-68
-25    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-26    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-27
-28    <application
-28-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:23:5-45:19
-29        android:allowBackup="true"
-29-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:24:9-35
-30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-30-->[androidx.core:core:1.3.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\4c8b6589fea0376b5675729682d16398\core-1.3.0\AndroidManifest.xml:24:18-86
-31        android:debuggable="true"
-32        android:icon="@drawable/logo_tektalk"
-32-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:25:9-46
-33        android:label="@string/app_name"
-33-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:26:9-41
-34        android:theme="@style/Theme.AppCompat.Light" >
-34-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:27:9-53
-35        <activity android:name="org.tensorflow.demo.MainActivity" >
-35-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:29:9-36:20
-35-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:29:19-47
-36            <intent-filter>
-36-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:30:13-35:29
-37                <action android:name="android.intent.action.MAIN" />
-37-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:31:17-69
-37-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:31:25-66
-38
-39                <category android:name="android.intent.category.LAUNCHER" />
-39-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:33:17-77
-39-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:33:27-74
-40                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
-40-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:34:17-86
-40-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:34:27-83
-41            </intent-filter>
-42        </activity>
-43        <activity
-43-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:37:9-40:52
-44            android:name="org.tensorflow.demo.DetectorActivity"
-44-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:38:13-45
-45            android:label="@string/activity_name_detection"
-45-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:39:13-60
-46            android:screenOrientation="portrait" />
-46-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:40:13-49
-47        <activity android:name="org.tensorflow.demo.ChooseLanguage" />
-47-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:41:9-52
-47-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:41:19-49
-48        <activity android:name="org.tensorflow.demo.GameMechanicsActivity" />
-48-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:42:9-68
-48-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:42:19-56
-49        <activity android:name="org.tensorflow.demo.GameActivity" />
-49-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:43:9-50
-49-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:43:19-47
-50        <activity android:name="org.tensorflow.demo.Bookmark" />
-50-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:44:9-46
-50-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:44:19-43
-51
-52        <service
-52-->[com.google.firebase:firebase-database:19.3.1] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\e387bfc2aadefb74180cddc273413ddf\jetified-firebase-database-19.3.1\AndroidManifest.xml:29:9-35:19
-53            android:name="com.google.firebase.components.ComponentDiscoveryService"
-53-->[com.google.firebase:firebase-database:19.3.1] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\e387bfc2aadefb74180cddc273413ddf\jetified-firebase-database-19.3.1\AndroidManifest.xml:30:13-84
-54            android:directBootAware="true"
-54-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\0c6d5386fa766c31ba38a2af33a5c168\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
-55            android:exported="false" >
-55-->[com.google.firebase:firebase-database:19.3.1] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\e387bfc2aadefb74180cddc273413ddf\jetified-firebase-database-19.3.1\AndroidManifest.xml:31:13-37
-56            <meta-data
-56-->[com.google.firebase:firebase-database:19.3.1] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\e387bfc2aadefb74180cddc273413ddf\jetified-firebase-database-19.3.1\AndroidManifest.xml:32:13-34:85
-57                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-57-->[com.google.firebase:firebase-database:19.3.1] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\e387bfc2aadefb74180cddc273413ddf\jetified-firebase-database-19.3.1\AndroidManifest.xml:33:17-109
-58                android:value="com.google.firebase.components.ComponentRegistrar" />
-58-->[com.google.firebase:firebase-database:19.3.1] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\e387bfc2aadefb74180cddc273413ddf\jetified-firebase-database-19.3.1\AndroidManifest.xml:34:17-82
-59        </service>
-60
-61        <activity
-61-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\981d429b00d47fb340246592457fbd23\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
-62            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-62-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\981d429b00d47fb340246592457fbd23\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
-63            android:exported="false"
-63-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\981d429b00d47fb340246592457fbd23\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
-64            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-64-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\981d429b00d47fb340246592457fbd23\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
-65
-66        <provider
-66-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\0c6d5386fa766c31ba38a2af33a5c168\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
-67            android:name="com.google.firebase.provider.FirebaseInitProvider"
-67-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\0c6d5386fa766c31ba38a2af33a5c168\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
-68            android:authorities="org.tensorflow.demo.firebaseinitprovider"
-68-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\0c6d5386fa766c31ba38a2af33a5c168\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
-69            android:exported="false"
-69-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\0c6d5386fa766c31ba38a2af33a5c168\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
-70            android:initOrder="100" />
-70-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\0c6d5386fa766c31ba38a2af33a5c168\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
-71
-72        <meta-data
-72-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\abac5348e4b9dbefbbbe03d33cf84b03\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
-73            android:name="com.google.android.gms.version"
-73-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\abac5348e4b9dbefbbbe03d33cf84b03\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
-74            android:value="@integer/google_play_services_version" />
-74-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\abac5348e4b9dbefbbbe03d33cf84b03\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
-75    </application>
-76
-77</manifest>
+21-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:16:9-33
+22    <uses-feature
+22-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:17:5-19:36
+23        android:name="android.hardware.camera.autofocus"
+23-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:18:9-57
+24        android:required="false" />
+24-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:19:9-33
+25    <uses-feature
+25-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:20:5-22:36
+26        android:name="android.software.leanback"
+26-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:21:9-49
+27        android:required="false" />
+27-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:22:9-33
+28
+29    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+29-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:24:5-81
+29-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:24:22-78
+30    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+30-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:25:5-71
+30-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:25:22-68
+31    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+32    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+33
+34    <application
+34-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:27:5-50:19
+35        android:allowBackup="true"
+35-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:28:9-35
+36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+36-->[androidx.core:core:1.3.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\4c8b6589fea0376b5675729682d16398\core-1.3.0\AndroidManifest.xml:24:18-86
+37        android:debuggable="true"
+38        android:icon="@drawable/logo_tektalk"
+38-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:29:9-46
+39        android:label="@string/app_name"
+39-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:30:9-41
+40        android:theme="@style/Theme.AppCompat.Light" >
+40-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:31:9-53
+41        <activity android:name="org.tensorflow.demo.MainActivity" >
+41-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:33:9-40:20
+41-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:33:19-47
+42            <intent-filter>
+42-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:34:13-39:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:35:17-69
+43-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:35:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:37:17-77
+45-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:37:27-74
+46                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+46-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:38:17-86
+46-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:38:27-83
+47            </intent-filter>
+48        </activity>
+49        <activity
+49-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:41:9-44:52
+50            android:name="org.tensorflow.demo.DetectorActivity"
+50-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:42:13-45
+51            android:label="@string/activity_name_detection"
+51-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:43:13-60
+52            android:screenOrientation="portrait" />
+52-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:44:13-49
+53        <activity android:name="org.tensorflow.demo.ChooseLanguage" />
+53-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:45:9-52
+53-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:45:19-49
+54        <activity android:name="org.tensorflow.demo.GameMechanicsActivity" />
+54-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:46:9-68
+54-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:46:19-56
+55        <activity android:name="org.tensorflow.demo.GameActivity" />
+55-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:47:9-50
+55-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:47:19-47
+56        <activity android:name="org.tensorflow.demo.Bookmark" />
+56-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:48:9-46
+56-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:48:19-43
+57
+58        <meta-data
+58-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:49:9-81
+59            android:name="com.google.ar.core"
+59-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:49:20-53
+60            android:value="required" />
+60-->C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:49:54-78
+61
+62        <service
+62-->[com.google.firebase:firebase-database:19.3.1] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\e387bfc2aadefb74180cddc273413ddf\jetified-firebase-database-19.3.1\AndroidManifest.xml:29:9-35:19
+63            android:name="com.google.firebase.components.ComponentDiscoveryService"
+63-->[com.google.firebase:firebase-database:19.3.1] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\e387bfc2aadefb74180cddc273413ddf\jetified-firebase-database-19.3.1\AndroidManifest.xml:30:13-84
+64            android:directBootAware="true"
+64-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\0c6d5386fa766c31ba38a2af33a5c168\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+65            android:exported="false" >
+65-->[com.google.firebase:firebase-database:19.3.1] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\e387bfc2aadefb74180cddc273413ddf\jetified-firebase-database-19.3.1\AndroidManifest.xml:31:13-37
+66            <meta-data
+66-->[com.google.firebase:firebase-database:19.3.1] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\e387bfc2aadefb74180cddc273413ddf\jetified-firebase-database-19.3.1\AndroidManifest.xml:32:13-34:85
+67                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+67-->[com.google.firebase:firebase-database:19.3.1] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\e387bfc2aadefb74180cddc273413ddf\jetified-firebase-database-19.3.1\AndroidManifest.xml:33:17-109
+68                android:value="com.google.firebase.components.ComponentRegistrar" />
+68-->[com.google.firebase:firebase-database:19.3.1] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\e387bfc2aadefb74180cddc273413ddf\jetified-firebase-database-19.3.1\AndroidManifest.xml:34:17-82
+69        </service>
+70
+71        <activity
+71-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\981d429b00d47fb340246592457fbd23\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+72            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+72-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\981d429b00d47fb340246592457fbd23\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+73            android:exported="false"
+73-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\981d429b00d47fb340246592457fbd23\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+74            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+74-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\981d429b00d47fb340246592457fbd23\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+75
+76        <provider
+76-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\0c6d5386fa766c31ba38a2af33a5c168\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+77            android:name="com.google.firebase.provider.FirebaseInitProvider"
+77-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\0c6d5386fa766c31ba38a2af33a5c168\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+78            android:authorities="org.tensorflow.demo.firebaseinitprovider"
+78-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\0c6d5386fa766c31ba38a2af33a5c168\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+79            android:exported="false"
+79-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\0c6d5386fa766c31ba38a2af33a5c168\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+80            android:initOrder="100" />
+80-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\0c6d5386fa766c31ba38a2af33a5c168\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+81
+82        <meta-data
+82-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\abac5348e4b9dbefbbbe03d33cf84b03\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+83            android:name="com.google.android.gms.version"
+83-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\abac5348e4b9dbefbbbe03d33cf84b03\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+84            android:value="@integer/google_play_services_version" /> <!-- The minimal version code of ARCore APK required for an app using this SDK. -->
+84-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\abac5348e4b9dbefbbbe03d33cf84b03\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+85        <meta-data
+85-->[com.google.ar:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\c509d2a8412c9eed4a1796e255a72f67\jetified-core-1.15.0\AndroidManifest.xml:33:9-35:41
+86            android:name="com.google.ar.core.min_apk_version"
+86-->[com.google.ar:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\c509d2a8412c9eed4a1796e255a72f67\jetified-core-1.15.0\AndroidManifest.xml:34:13-62
+87            android:value="191106000" /> <!-- This activity is critical for installing ARCore when it is not already present. -->
+87-->[com.google.ar:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\c509d2a8412c9eed4a1796e255a72f67\jetified-core-1.15.0\AndroidManifest.xml:35:13-38
+88        <activity
+88-->[com.google.ar:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\c509d2a8412c9eed4a1796e255a72f67\jetified-core-1.15.0\AndroidManifest.xml:37:9-43:80
+89            android:name="com.google.ar.core.InstallActivity"
+89-->[com.google.ar:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\c509d2a8412c9eed4a1796e255a72f67\jetified-core-1.15.0\AndroidManifest.xml:38:13-62
+90            android:configChanges="keyboardHidden|orientation|screenSize"
+90-->[com.google.ar:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\c509d2a8412c9eed4a1796e255a72f67\jetified-core-1.15.0\AndroidManifest.xml:39:13-74
+91            android:excludeFromRecents="true"
+91-->[com.google.ar:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\c509d2a8412c9eed4a1796e255a72f67\jetified-core-1.15.0\AndroidManifest.xml:40:13-46
+92            android:exported="false"
+92-->[com.google.ar:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\c509d2a8412c9eed4a1796e255a72f67\jetified-core-1.15.0\AndroidManifest.xml:41:13-37
+93            android:launchMode="singleTop"
+93-->[com.google.ar:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\c509d2a8412c9eed4a1796e255a72f67\jetified-core-1.15.0\AndroidManifest.xml:42:13-43
+94            android:theme="@android:style/Theme.Material.Light.Dialog.Alert" />
+94-->[com.google.ar:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\c509d2a8412c9eed4a1796e255a72f67\jetified-core-1.15.0\AndroidManifest.xml:43:13-77
+95    </application>
+96
+97</manifest>

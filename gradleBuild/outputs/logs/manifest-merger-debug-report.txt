@@ -1,11 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:2:1-47:12
+ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:2:1-52:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\63290e2749d417dc089686ff2ff82941\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\77a4be48dd18c6a602bf0f74980ca5c3\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [org.tensorflow:tensorflow-android:1.13.1] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\5986dec7f40f105fdf5a3e7890ee8b24\jetified-tensorflow-android-1.13.1\AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\e387bfc2aadefb74180cddc273413ddf\jetified-firebase-database-19.3.1\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\e06a4bdaef540ecd3da6bb2154c23ef8\jetified-sceneform-ux-1.15.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\4a2d48410430b0756b201dbe6e5c643d\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\8974010d778adce8984d6859feac3fab\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\981d429b00d47fb340246592457fbd23\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
@@ -32,7 +33,12 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Jonathan\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\b9f19850fc86f066a207a0ad674aeffc\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\1e101f1d01db58490f5458c25862055f\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\f7090c31d97337671f8515b6aab4a5d1\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:2:1-47:12
+MERGED from [com.google.ar.sceneform:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\0e6e32e7168a7d1dac34e63f00ebb555\jetified-core-1.15.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:rendering:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\a0c97677e8fdd05c09e0b4868942dbe2\jetified-rendering-1.15.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:sceneform-base:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\316e9f0c454204afeb410656396702f4\jetified-sceneform-base-1.15.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:filament-android:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\bf7584485552b9026aa5e1eaed3dc15f\jetified-filament-android-1.15.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.ar:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\c509d2a8412c9eed4a1796e255a72f67\jetified-core-1.15.0\AndroidManifest.xml:17:1-46:12
+INJECTED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:2:1-52:12
 	package
 		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:4:5-34
 		INJECTED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml
@@ -51,40 +57,50 @@ MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\Jonathan\.gr
 MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\e387bfc2aadefb74180cddc273413ddf\jetified-firebase-database-19.3.1\AndroidManifest.xml:26:5-67
 	android:name
 		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:7:22-64
+uses-feature#0x00030000
+ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:8:5-78
+	android:glEsVersion
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:8:19-51
+	android:required
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:8:52-75
+uses-feature#android.hardware.camera.ar
+ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:9:5-63
+	android:name
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:9:19-60
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:8:5-79
+ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:10:5-79
 MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\e387bfc2aadefb74180cddc273413ddf\jetified-firebase-database-19.3.1\AndroidManifest.xml:25:5-79
 MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\e387bfc2aadefb74180cddc273413ddf\jetified-firebase-database-19.3.1\AndroidManifest.xml:25:5-79
 	android:name
-		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:8:22-76
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:10:22-76
 uses-feature#android.hardware.camera
-ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:10:5-12:36
+ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:14:5-16:36
 	android:required
-		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:12:9-33
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:16:9-33
 	android:name
-		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:11:9-47
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:15:9-47
 uses-feature#android.hardware.camera.autofocus
-ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:13:5-15:36
+ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:17:5-19:36
 	android:required
-		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:15:9-33
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:19:9-33
 	android:name
-		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:14:9-57
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:18:9-57
 uses-feature#android.software.leanback
-ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:16:5-18:36
+ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:20:5-22:36
 	android:required
-		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:18:9-33
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:22:9-33
 	android:name
-		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:17:9-49
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:21:9-49
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:20:5-81
+ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:24:5-81
 	android:name
-		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:20:22-78
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:24:22-78
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:21:5-71
+ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:25:5-71
 	android:name
-		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:21:22-68
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:25:22-68
 application
-ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:23:5-45:19
+ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:27:5-50:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\77a4be48dd18c6a602bf0f74980ca5c3\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\77a4be48dd18c6a602bf0f74980ca5c3\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [org.tensorflow:tensorflow-android:1.13.1] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\5986dec7f40f105fdf5a3e7890ee8b24\jetified-tensorflow-android-1.13.1\AndroidManifest.xml:5:5-6:19
@@ -105,58 +121,66 @@ MERGED from [androidx.core:core:1.3.0] C:\Users\Jonathan\.gradle\caches\transfor
 MERGED from [androidx.core:core:1.3.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\4c8b6589fea0376b5675729682d16398\core-1.3.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\a3ea263360a289df2a73b95ee5a53879\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\a3ea263360a289df2a73b95ee5a53879\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.ar:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\c509d2a8412c9eed4a1796e255a72f67\jetified-core-1.15.0\AndroidManifest.xml:30:5-44:19
+MERGED from [com.google.ar:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\c509d2a8412c9eed4a1796e255a72f67\jetified-core-1.15.0\AndroidManifest.xml:30:5-44:19
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\4c8b6589fea0376b5675729682d16398\core-1.3.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:26:9-41
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:30:9-41
 	android:icon
-		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:25:9-46
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:29:9-46
 	android:allowBackup
-		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:24:9-35
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:28:9-35
 	android:theme
-		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:27:9-53
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:31:9-53
 activity#org.tensorflow.demo.MainActivity
-ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:29:9-36:20
+ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:33:9-40:20
 	android:name
-		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:29:19-47
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:33:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
-ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:30:13-35:29
+ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:34:13-39:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:31:17-69
+ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:35:17-69
 	android:name
-		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:31:25-66
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:35:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:33:17-77
+ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:37:17-77
 	android:name
-		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:33:27-74
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:37:27-74
 category#android.intent.category.LEANBACK_LAUNCHER
-ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:34:17-86
+ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:38:17-86
 	android:name
-		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:34:27-83
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:38:27-83
 activity#org.tensorflow.demo.DetectorActivity
-ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:37:9-40:52
+ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:41:9-44:52
 	android:screenOrientation
-		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:40:13-49
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:44:13-49
 	android:label
-		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:39:13-60
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:43:13-60
 	android:name
-		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:38:13-45
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:42:13-45
 activity#org.tensorflow.demo.ChooseLanguage
-ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:41:9-52
+ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:45:9-52
 	android:name
-		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:41:19-49
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:45:19-49
 activity#org.tensorflow.demo.GameMechanicsActivity
-ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:42:9-68
+ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:46:9-68
 	android:name
-		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:42:19-56
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:46:19-56
 activity#org.tensorflow.demo.GameActivity
-ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:43:9-50
+ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:47:9-50
 	android:name
-		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:43:19-47
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:47:19-47
 activity#org.tensorflow.demo.Bookmark
-ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:44:9-46
+ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:48:9-46
 	android:name
-		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:44:19-43
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:48:19-43
+meta-data#com.google.ar.core
+ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:49:9-81
+	android:value
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:49:54-78
+	android:name
+		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:49:20-53
 uses-sdk
 INJECTED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml
@@ -167,6 +191,8 @@ MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Jonathan
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\77a4be48dd18c6a602bf0f74980ca5c3\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\e387bfc2aadefb74180cddc273413ddf\jetified-firebase-database-19.3.1\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-database:19.3.1] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\e387bfc2aadefb74180cddc273413ddf\jetified-firebase-database-19.3.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\e06a4bdaef540ecd3da6bb2154c23ef8\jetified-sceneform-ux-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\e06a4bdaef540ecd3da6bb2154c23ef8\jetified-sceneform-ux-1.15.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\4a2d48410430b0756b201dbe6e5c643d\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\4a2d48410430b0756b201dbe6e5c643d\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\8974010d778adce8984d6859feac3fab\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
@@ -219,6 +245,16 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Jonathan
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\1e101f1d01db58490f5458c25862055f\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\f7090c31d97337671f8515b6aab4a5d1\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\f7090c31d97337671f8515b6aab4a5d1\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\0e6e32e7168a7d1dac34e63f00ebb555\jetified-core-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\0e6e32e7168a7d1dac34e63f00ebb555\jetified-core-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:rendering:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\a0c97677e8fdd05c09e0b4868942dbe2\jetified-rendering-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:rendering:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\a0c97677e8fdd05c09e0b4868942dbe2\jetified-rendering-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:sceneform-base:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\316e9f0c454204afeb410656396702f4\jetified-sceneform-base-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:sceneform-base:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\316e9f0c454204afeb410656396702f4\jetified-sceneform-base-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:filament-android:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\bf7584485552b9026aa5e1eaed3dc15f\jetified-filament-android-1.15.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.ar.sceneform:filament-android:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\bf7584485552b9026aa5e1eaed3dc15f\jetified-filament-android-1.15.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.ar:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\c509d2a8412c9eed4a1796e255a72f67\jetified-core-1.15.0\AndroidManifest.xml:26:5-28:41
+MERGED from [com.google.ar:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\c509d2a8412c9eed4a1796e255a72f67\jetified-core-1.15.0\AndroidManifest.xml:26:5-28:41
 INJECTED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml
 INJECTED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml
 	android:targetSdkVersion
@@ -230,9 +266,9 @@ INJECTED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidMa
 		ADDED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml
 		INJECTED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:2:1-47:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+IMPLIED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:2:1-52:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:2:1-47:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Jonathan\Documents\GitHub\AccentureTektalkFinal\AndroidManifest.xml:2:1-52:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE
 service#com.google.firebase.components.ComponentDiscoveryService
 ADDED from [com.google.firebase:firebase-database:19.3.1] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\e387bfc2aadefb74180cddc273413ddf\jetified-firebase-database-19.3.1\AndroidManifest.xml:29:9-35:19
 MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\0c6d5386fa766c31ba38a2af33a5c168\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
@@ -275,3 +311,23 @@ ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Jonat
 		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\abac5348e4b9dbefbbbe03d33cf84b03\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
 	android:name
 		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\abac5348e4b9dbefbbbe03d33cf84b03\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [com.google.ar:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\c509d2a8412c9eed4a1796e255a72f67\jetified-core-1.15.0\AndroidManifest.xml:33:9-35:41
+	android:value
+		ADDED from [com.google.ar:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\c509d2a8412c9eed4a1796e255a72f67\jetified-core-1.15.0\AndroidManifest.xml:35:13-38
+	android:name
+		ADDED from [com.google.ar:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\c509d2a8412c9eed4a1796e255a72f67\jetified-core-1.15.0\AndroidManifest.xml:34:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [com.google.ar:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\c509d2a8412c9eed4a1796e255a72f67\jetified-core-1.15.0\AndroidManifest.xml:37:9-43:80
+	android:excludeFromRecents
+		ADDED from [com.google.ar:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\c509d2a8412c9eed4a1796e255a72f67\jetified-core-1.15.0\AndroidManifest.xml:40:13-46
+	android:launchMode
+		ADDED from [com.google.ar:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\c509d2a8412c9eed4a1796e255a72f67\jetified-core-1.15.0\AndroidManifest.xml:42:13-43
+	android:exported
+		ADDED from [com.google.ar:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\c509d2a8412c9eed4a1796e255a72f67\jetified-core-1.15.0\AndroidManifest.xml:41:13-37
+	android:configChanges
+		ADDED from [com.google.ar:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\c509d2a8412c9eed4a1796e255a72f67\jetified-core-1.15.0\AndroidManifest.xml:39:13-74
+	android:theme
+		ADDED from [com.google.ar:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\c509d2a8412c9eed4a1796e255a72f67\jetified-core-1.15.0\AndroidManifest.xml:43:13-77
+	android:name
+		ADDED from [com.google.ar:core:1.15.0] C:\Users\Jonathan\.gradle\caches\transforms-2\files-2.1\c509d2a8412c9eed4a1796e255a72f67\jetified-core-1.15.0\AndroidManifest.xml:38:13-62

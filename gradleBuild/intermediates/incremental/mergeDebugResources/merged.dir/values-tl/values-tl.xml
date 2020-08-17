@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="__arcore_cancel">Kanselahin</string>
+    <string name="__arcore_continue">Magpatuloy</string>
+    <string name="__arcore_install_app">Kailangan ng application na ito ang pinakabagong bersyon ng Google Play Services para sa AR.</string>
+    <string name="__arcore_install_feature">Kailangan ng feature na ito ang pinakabagong bersyon ng Google Play Services para sa AR.</string>
+    <string name="__arcore_installing">Ini-install ang Google Play Services para sa AR…</string>
     <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Mag-navigate sa home"</string>
     <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Mag-navigate pataas"</string>
     <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Higit pang opsyon"</string>

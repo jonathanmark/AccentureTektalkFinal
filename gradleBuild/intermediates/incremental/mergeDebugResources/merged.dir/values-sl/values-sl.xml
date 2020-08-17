@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="__arcore_cancel">Prekliči</string>
+    <string name="__arcore_continue">Naprej</string>
+    <string name="__arcore_install_app">Za uporabo te aplikacije je potrebna najnovejša različica Storitev Google Play za RR.</string>
+    <string name="__arcore_install_feature">Za uporabo te funkcije je potrebna najnovejša različica Storitev Google Play za RR.</string>
+    <string name="__arcore_installing">Nameščanje Storitev Google Play za RR …</string>
     <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Krmarjenje na začetek"</string>
     <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Pomik navzgor"</string>
     <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Več možnosti"</string>

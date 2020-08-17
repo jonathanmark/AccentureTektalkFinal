@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="__arcore_cancel">Khansela</string>
+    <string name="__arcore_continue">Qhubeka</string>
+    <string name="__arcore_install_app">Lolu hlelo lokusebenza ludinga inguqulo yakamuva yokuthi Imisebenzi ye-Google ye-Google Play.</string>
+    <string name="__arcore_install_feature">Lesi sici sidinga inguqulo yakamuva yokuthi Imisebenzi ye-Google ye-Google Play.</string>
+    <string name="__arcore_installing">Ifaka Imisebenzi ye-Google ye-Google Play…</string>
     <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Zulazulela ekhaya"</string>
     <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Zulazulela phezulu"</string>
     <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Ezinye izinketho"</string>
