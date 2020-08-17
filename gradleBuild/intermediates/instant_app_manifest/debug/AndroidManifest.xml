@@ -32,7 +32,6 @@
         android:debuggable="true"
         android:icon="@drawable/logo_tektalk"
         android:label="@string/app_name"
-        android:testOnly="true"
         android:theme="@style/Theme.AppCompat.Light" >
         <activity android:name="org.tensorflow.demo.MainActivity" >
             <intent-filter>

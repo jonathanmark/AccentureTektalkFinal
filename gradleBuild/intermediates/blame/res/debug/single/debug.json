@@ -1,118 +1,118 @@
 [
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_activity_game.xml.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\layout\\activity_game.xml"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_activity_bookmark.xml.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\layout\\activity_bookmark.xml"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_logo3.png.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\drawable\\logo3.png"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_buttondelete.xml.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\drawable\\buttondelete.xml"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_background.png.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\drawable\\background.png"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_activity_game_mechanics.xml.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\layout\\activity_game_mechanics.xml"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_keyboard_arrow_down_24.xml.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\drawable\\ic_baseline_keyboard_arrow_down_24.xml"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\layout\\activity_camera.xml"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_activity_game_mechanics.xml.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\layout\\activity_game_mechanics.xml"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_tile.9.png.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\drawable-hdpi\\tile.9.png"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\drawable-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_background.png.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\drawable\\background.png"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_buttondelete.xml.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\drawable\\buttondelete.xml"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_activity_list_layout.xml.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\layout\\activity_list_layout.xml"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_logo_tektalk.png.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\drawable\\logo_tektalk.png"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\drawable-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\layout\\activity_game.xml"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_ic_delete.xml.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\drawable\\ic_delete.xml"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_info.png.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\drawable-mdpi\\ic_action_info.png"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_camera_connection_fragment_tracking.xml.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\layout\\camera_connection_fragment_tracking.xml"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_camera_connection_fragment_tracking.xml.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\layout\\camera_connection_fragment_tracking.xml"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_activity_choose_language.xml.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\layout\\activity_choose_language.xml"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_info.png.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\drawable-xhdpi\\ic_action_info.png"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_custom_button.xml.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\drawable-xxhdpi\\custom_button.xml"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_volume1.png.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\drawable-xxhdpi\\volume1.png"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_info.png.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\drawable-hdpi\\ic_action_info.png"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\drawable\\ic_delete.xml"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\raw_credentials.json.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\raw\\credentials.json"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_keyboard_arrow_down_24.xml.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\drawable\\ic_baseline_keyboard_arrow_down_24.xml"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_logo2.png.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\drawable\\logo2.png"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_logo3.png.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\drawable\\logo3.png"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_tile.9.png.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\drawable-hdpi\\tile.9.png"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\drawable-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_background_splash.xml.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\drawable\\background_splash.xml"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\raw_credentials.json.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\raw\\credentials.json"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_activity_bookmark.xml.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\layout\\activity_bookmark.xml"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_info.png.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\drawable-xxhdpi\\ic_action_info.png"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\layout\\activity_camera.xml"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_logo2.png.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\drawable\\logo2.png"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_volume1.png.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\drawable-xxhdpi\\volume1.png"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_info.png.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\drawable-mdpi\\ic_action_info.png"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_custom_button.xml.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\drawable-xxhdpi\\custom_button.xml"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_logo_tektalk.png.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\drawable\\logo_tektalk.png"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_background_splash.xml.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\drawable\\background_splash.xml"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_info.png.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\drawable-xxhdpi\\ic_action_info.png"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\animator_color_animation.xml.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\animator\\color_animation.xml"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\drawable-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\drawable-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\animator_color_animation.xml.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\animator\\color_animation.xml"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_info.png.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\drawable-hdpi\\ic_action_info.png"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_activity_list_layout.xml.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\layout\\activity_list_layout.xml"
     },
     {
-        "merged": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_info.png.flat",
-        "source": "C:\\Users\\JP\\AndroidStudioProjects\\newandroid\\android\\res\\drawable-xhdpi\\ic_action_info.png"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_activity_choose_language.xml.flat",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\AccentureTektalkFinal\\res\\layout\\activity_choose_language.xml"
     }
 ]

@@ -151,6 +151,8 @@ android {
         targetSdkVersion 29
         minSdkVersion 21
     }
+    //Comment by Jonathan: local version ko to ng ndk tapos dinisable ko by changing to comment yung ndk sa task build native
+    ndkVersion "21.3.6528147"
 }
 
 task buildNativeBazel(type: Exec) {
@@ -163,7 +165,7 @@ task buildNativeBazel(type: Exec) {
 }
 
 task buildNativeMake(type: Exec) {
-    environment "NDK_ROOT", android.ndkDirectory
+    //environment "NDK_ROOT", android.ndkDirectory
     // Tip: install ccache and uncomment the following to speed up
     // builds significantly.
     // environment "CC_PREFIX", 'ccache'
@@ -211,5 +213,9 @@ dependencies {
     }
     annotationProcessor 'com.google.cloud:google-cloud-translate:1.12.0'
     implementation 'com.google.firebase:firebase-database:19.3.1'
+
+    //Comment by Jonathan: Dito ko nilagay yung deps for ARCORE sceneform
+
+    implementation "com.google.ar.sceneform.ux:sceneform-ux:1.0.0"
 
 }
